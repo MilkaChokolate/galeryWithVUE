@@ -1,24 +1,40 @@
-# album
+# Фотоальбом
+Фотоальбом с альбомами и фоторгафиями пользователей с возможностью сохранения фотографий в избранное.
+
+## Технологии
+* Vue
+* HTML
+* JS
+* CSS
+* localStorage
+* fetch
+* API
+
+<image
+  src="/markdownImg/users.png"
+  alt="Юзеры"
+  caption="Юзеры">
+ 
+<image
+  src="/markdownImg/albums.png"
+  alt="Альбомы"
+  caption="Альбомы">
+    
+<image
+  src="/markdownImg/photos.png"
+  alt="Фото"
+  caption="Фото">
+  
+<image
+  src="/markdownImg/favorite.png"
+  alt="Избранное"
+  caption="Избранное">
 
 ## Project setup
 ```
-npm install
+git clone https://github.com/MilkaChokolate/galeryWithVUE.git
 ```
-
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
