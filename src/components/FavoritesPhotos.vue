@@ -25,6 +25,7 @@ export default {
   max-width: 700px;
   display: flex;
   flex-wrap: wrap;
+  width: 764px;
 }
 
 </style>
